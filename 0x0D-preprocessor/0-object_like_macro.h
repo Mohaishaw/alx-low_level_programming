@@ -1,5 +1,5 @@
-#ifndef main.h
-#define main.h
+#ifndef _OBJECT_LIKE_MACRO_
+#define _OBJECT_LIKE_MACRO_
 
 #define SIZE 1024
 
